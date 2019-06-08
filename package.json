@@ -2,6 +2,7 @@
   "name": "parse-querystring-dotkey",
   "version": "1.0.1",
   "description": "",
+  "types": "@types/index.d.ts",
   "main": "lib",
   "dependencies": {},
   "devDependencies": {
