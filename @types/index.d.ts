@@ -7,4 +7,6 @@ declare module "parse-querystring-dotkey" {
         input: string | {[k: string]: any},
         opts?: { arrayFormat?: 'comma' }
     ): ParsedQS
+
+    export = parseDotQueryKey;
 }
